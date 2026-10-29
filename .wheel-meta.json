@@ -1,0 +1,22 @@
+{
+  "wheel_id": 499,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-104",
+  "project": "retaining-wall-builders-toowoomba-checklist-ea288a6865ca6ba97ab",
+  "parent_t1_ref": "toowoombaretainingwalls-151",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining wall builders toowoomba checklist",
+  "intended_url": "https://sitesau.github.io/toowoombaretainingwalls-104/",
+  "tier": "T2",
+  "writeback_nonce": "0fc720ebabb1c775",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-toowoomba-08e3e01dfff775bad2a8ef72c039c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Retaining Wall Builders Toowoomba: Toowoomba Builders",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
